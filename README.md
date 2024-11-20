@@ -1,2 +1,2 @@
-# OGusev
-for me
+# 1C
+СКД
